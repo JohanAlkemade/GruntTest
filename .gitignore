@@ -6,3 +6,4 @@ obj/
 dist/
 www/css/**/*.css
 .sass-cache/
+*.log
