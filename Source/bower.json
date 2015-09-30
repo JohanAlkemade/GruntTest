@@ -1,0 +1,20 @@
+{
+  "name": "SchoolmasterIntake",
+  "version": "1.0.0",
+  "authors": [
+    "S5.nl"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "restangular": "~1.5.1",
+    "angular-ui-router": "~0.2.15"
+  }
+}
